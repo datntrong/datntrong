@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![](https://visitcount.itsvg.in/api?id=datntrong&icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=datntrong&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
 
