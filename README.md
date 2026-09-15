@@ -1,4 +1,8 @@
-## Dat Nguyen Trong
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=170&section=header&text=Dat%20Nguyen%20Trong&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Software%20testing%20researcher%20%C2%B7%20LLM%20agents&descAlignY=58&descSize=16" alt="Dat Nguyen Trong" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=900&color=26D0CE&center=true&vCenter=true&width=560&lines=Tests+that+compile.;Tests+that+run.;Tests+that+mean+something." alt="Making machines write tests we can actually run" />
+</p>
 
 Automated software testing, and making LLMs genuinely useful for it — unit tests that compile, run and cover the code under test.
 
@@ -6,7 +10,8 @@ Research assistant at the Software Quality Assurance Laboratory (RD320), VNU-UET
 
 [Website](https://datntrong.github.io) · [Email](mailto:datntrong@gmail.com) · [LinkedIn](https://www.linkedin.com/in/datntrong/) · [ORCID](https://orcid.org/0009-0002-4941-7635)
 
-[![Profile views](https://visitcount.itsvg.in/api?id=datntrong&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=datntrong&style=flat-square&color=blue)
+![Followers](https://img.shields.io/github/followers/datntrong?style=flat-square&logo=github&label=Followers)
 
 **Recent work**
 
@@ -32,11 +37,21 @@ Research assistant at the Software Quality Assurance Laboratory (RD320), VNU-UET
 ### Contributions 📈
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=datntrong&show_icons=true&theme=react&count_private=true&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=datntrong&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datntrong&langs_count=8&theme=react&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=datntrong&show_icons=true&theme=react&count_private=true&hide_border=true" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=datntrong&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727" alt="Contribution streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datntrong&langs_count=8&theme=react&hide_border=true&layout=compact" alt="Top languages" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=datntrong&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datntrong&theme=github" alt="Profile summary" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=datntrong&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<!-- Generated daily by .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/datntrong/datntrong/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/datntrong/datntrong/output/github-snake.svg" alt="Snake eating my contribution graph" />
+</picture>
+
+---
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
