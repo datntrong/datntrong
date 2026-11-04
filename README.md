@@ -6,7 +6,7 @@
 
 Automated software testing, and making LLMs genuinely useful for it — unit tests that compile, run and cover the code under test.
 
-Research assistant at the Software Quality Assurance Laboratory (RD320), VNU-UET · AI engineer at Viettel Telecom.
+Research assistant at the Software Quality Assurance Laboratory (RD320), VNU-UET · Senior AI Engineer at Viettel Telecom.
 
 [Website](https://datntrong.github.io) · [Email](mailto:datntrong@gmail.com) · [LinkedIn](https://www.linkedin.com/in/datntrong/) · [ORCID](https://orcid.org/0009-0002-4941-7635)
 
@@ -15,7 +15,15 @@ Research assistant at the Software Quality Assurance Laboratory (RD320), VNU-UET
 
 **Recent work**
 
-- [**ConAgent**](https://doi.org/10.1016/j.infsof.2026.108301) — agent-based concolic testing for Qt projects. *Information and Software Technology*, 2026.
+- [**ConAgent**](https://doi.org/10.1016/j.infsof.2026.108301
+        
+        
+        
+        
+        
+        
+        
+        ) — agent-based concolic testing for Qt projects. *Information and Software Technology*, 2026.
 - [**UnitTestLM**](https://github.com/datntrong/UnitTestLM) — distillation + GRPO for unit test generation: 84% statement coverage on Python, 73% on C++, at ~1/20 of the teacher's inference cost.
 - [**CIA-AUT**](https://github.com/datntrong/CIA-AUT) — change impact analysis for automated unit testing of Java projects.
 
